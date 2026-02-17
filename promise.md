@@ -1,0 +1,1 @@
+I promise to never use my pk associated with real money in plain text.
